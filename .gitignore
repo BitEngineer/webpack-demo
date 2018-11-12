@@ -1,0 +1,15 @@
+/*
+!build/
+!config/
+!src/
+!static/
+!.babelrc
+!.editorconfig
+!.gitignore
+!.postcssrc.js
+!index.html
+!package.json
+!webpack.config.js
+!webpack.page.config.js
+!proxy.properties
+!README.md
